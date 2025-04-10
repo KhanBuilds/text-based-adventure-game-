@@ -10,3 +10,7 @@ A simple console-based adventure game developed in C++. The player makes choices
 ## How to Run
 Compile using any C++ compiler:
 
+
+## Author
+Rayan Alam
+
